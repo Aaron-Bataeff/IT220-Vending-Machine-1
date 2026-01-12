@@ -1,0 +1,14 @@
+C:\Users\bridg\source\repos\Vending Machine 1\bin\Debug\net8.0\Vending Machine 1.exe
+C:\Users\bridg\source\repos\Vending Machine 1\bin\Debug\net8.0\Vending Machine 1.deps.json
+C:\Users\bridg\source\repos\Vending Machine 1\bin\Debug\net8.0\Vending Machine 1.runtimeconfig.json
+C:\Users\bridg\source\repos\Vending Machine 1\bin\Debug\net8.0\Vending Machine 1.dll
+C:\Users\bridg\source\repos\Vending Machine 1\bin\Debug\net8.0\Vending Machine 1.pdb
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\Vending Machine 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\Vending Machine 1.AssemblyInfoInputs.cache
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\Vending Machine 1.AssemblyInfo.cs
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\Vending Machine 1.csproj.CoreCompileInputs.cache
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\Vending Machine 1.dll
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\refint\Vending Machine 1.dll
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\Vending Machine 1.pdb
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\Vending Machine 1.genruntimeconfig.cache
+C:\Users\bridg\source\repos\Vending Machine 1\obj\Debug\net8.0\ref\Vending Machine 1.dll
