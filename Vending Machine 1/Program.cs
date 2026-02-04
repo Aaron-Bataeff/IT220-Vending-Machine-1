@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 class Program
 {
+    private const string LogFileName = "vending_log.txt";
+
     static void Main()
     {
         Dictionary<int, string> vendingItems = CreateVendingItems();
@@ -52,11 +55,24 @@ class Program
     {
         if (items.ContainsKey(selection))
         {
-            Console.WriteLine($"\nVending {items[selection]}... Enjoy!");
+            string itemVended = items[selection];
+            Console.WriteLine($"\nVending {itemVended}... Enjoy!");
+
+            LogVending(itemVended);
         }
         else
         {
             Console.WriteLine("\nInvalid selection. Nothing vended.");
         }
+    }
+
+    static void LogVending(string vendedItem)
+    {
+        string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+        string logLine = $"{timestamp} - {vendedItem}{Environment.NewLine}";
+
+        string logPath = Path.Combine(AppContext.BaseDirectory, LogFileName);
+
+        File.AppendAllText(logPath, logLine);
     }
 }

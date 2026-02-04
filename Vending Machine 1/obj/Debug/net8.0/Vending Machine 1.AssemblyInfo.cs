@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vending Machine 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ace103c4e5869097ceac2efbd199fcd9bd86441c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vending Machine 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vending Machine 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
