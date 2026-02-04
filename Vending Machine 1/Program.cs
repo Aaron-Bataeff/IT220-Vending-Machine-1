@@ -63,6 +63,9 @@ class Program
         else
         {
             Console.WriteLine("\nInvalid selection. Nothing vended.");
+
+            // log invalid selection
+            LogVending("Nothing vended (invalid selection)");
         }
     }
 
